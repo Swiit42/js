@@ -1,0 +1,9 @@
+#boite {
+    position: absolute;
+top: 20px;
+left: 20px;
+background-color: blueviolet;
+width: 150px;
+height: 150px;
+}
+

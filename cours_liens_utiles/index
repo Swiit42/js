@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Exemple javascript</title>
+  <meta name="description" content="Exemple javascript">
+  <meta name="author" content="Exemple javascript">
+</head>
+<body>
+  <section>
+    <div>
+      <!-- <h1> Hello World </h1> -->
+      <p>
+        <span> Coucou </span>
+      </p>
+    </div>
+  </section> Salut tout le monde
+  <script type="text/javascript" src="js/script.js"></script>
+</body>
+</html>
